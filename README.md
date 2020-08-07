@@ -25,7 +25,7 @@ Hi, I'm Shreyas 😉 , a budding software developer.
 - 💻 I’m currently working on my course projects.<br>
 - 🌱 I’m learning JavaScript, SQL and Python now.<br>
 - ⭐️ My research interests are Databases, Cloud Computing, Data Warehousing, Data Analytics, etc.<br>
-- 📭 Please send me [an email](shreyasmavanoor@gmail.com) to reach me (Please mention you found me thru GitHub).<br>
+- 📭 Please send me an email at shreyasmavanoor@gmail.com to reach me (Please mention you found me thru GitHub).<br>
 
 **Languages and Tools:**
 
