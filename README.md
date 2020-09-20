@@ -23,7 +23,7 @@ Hi, I'm Shreyas 😉 , a budding software developer.
 
 - 🎓 I am a senior at PES University, India.<br>
 - 💻 I’m currently working on my course projects.<br>
-- 🌱 I’m learning JavaScript, SQL and Python now.<br>
+- 🌱 I work with JavaScript, SQL and Python now.<br>
 - ⭐️ My research interests are in Web Technologies, Cloud Computing, Data Warehousing, Data Analytics, etc.<br>
 - 📭 Please send me an email at shreyasmavanoor@gmail.com to reach me (Please mention you found me thru GitHub).<br>
 
